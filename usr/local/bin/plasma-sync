@@ -67,6 +67,7 @@ CONFIG_ITEMS=(
     ".config/kwinoutputconfig.json"
     ".config/plasma-localerc"
     ".config/baloofilerc"
+	".config/baloofileinformationrc"
     ".local/share/applications"
     ".local/share/plasma"
     ".local/share/plasmashell"
