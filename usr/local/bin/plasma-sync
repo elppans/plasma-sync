@@ -51,6 +51,7 @@ CONFIG_DIRS=(
     ".local/share/icons"
     ".local/share/wallpapers"
     ".local/share/kservices5"
+	".local/state"
 )
 
 # Diretório de aplicativos: aqui NÃO copiamos a pasta inteira (tem entradas
