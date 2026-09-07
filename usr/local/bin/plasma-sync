@@ -39,6 +39,7 @@ CONFIG_DIRS=(
     ".config/gtk-4.0"
     ".config/Kvantum"
     ".config/latte"
+	".config/smplayer"
     ".config/autostart"
     ".local/share/plasma"
     ".local/share/plasmashell"
